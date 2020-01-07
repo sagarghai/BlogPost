@@ -34,7 +34,7 @@ BlackFriday.csv - This file contains 550,000 observations about the black Friday
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@sagarghai18695/exploring-black-friday-sales-f495c4bcb89c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
